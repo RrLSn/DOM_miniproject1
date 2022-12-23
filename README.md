@@ -12,9 +12,7 @@ Your browser version must be recent for a better experience 'https://github.com/
 JAVASCRIPT
 
 # Demo
-[preview]()
-![screenshot]()
-
+[preview](https://jazzy-otter-7257b5.netlify.app)
 
 # Contact
 If you want to contact me, you can reach me at
