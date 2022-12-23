@@ -6,7 +6,7 @@ An implementation of Asabeneh 30daysJavaScript with JAVASCRIPT
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience 'https://github.com/RrLSn/Gramma-sCake_store.git'
+Your browser version must be recent for a better experience https://github.com/RrLSn/DOM_miniproject1.git
 
 # Tech/framework used
 JAVASCRIPT
